@@ -1,0 +1,34 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color:palevioletred
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 1em sans-serif;
+    color: skyblue;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid white;
+    width: 700;
+}
+
+tr {
+    text-align: center;
+}
+
+thead {
+    background-color:brown
+}
+
+body {
+    background-color: rgba(9, 9, 250, 0.685);
+}
